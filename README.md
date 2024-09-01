@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Bhanusri14
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Bhanusri Avuthu
+- 👀 I’m interested in:Data analyst
+- 🌱 I’m currently learning:Python
+-     Studying at Jawaharlal Nehru Technological University-kakinada
